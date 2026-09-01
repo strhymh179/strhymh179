@@ -1,21 +1,17 @@
 # Hi there, I'm Siti Rahimah 👋
 
-💻 Computer Science graduate from Universiti Teknologi MARA (UiTM)
+💻 Computer Science graduate from Universiti Teknologi MARA (UiTM)  
 
-🎓 Bachelor of Computer Science (Hons.) 
+💼 IT Intern at Jabatan Teknologi Digital & Inovasi, working with PHP, Laravel, React.js, Python, MySQL, and Power BI  
 
-🚀 Interested in Software Development, Data Analytics & AI
-
-🛠️ Skills: PHP, Laravel, React.js, Python, MySQL, Power BI
-
-🌱 Currently looking for opportunities to grow as a Software / Data professional
+🗺️ Spoken Languages: English, Malay
 
 ## 📂 Featured Projects
 
-- 🎵 [MoodTune - Facial Emotion-Based Music Recommender]
-- 💻 [Sistem S2P - Ticket Management and Asset Web Application](YOUR_GITHUB_LINK)
-- 🐾 [Wildlife Conservation Management System](YOUR_GITHUB_LINK)
-- 📊 [Student Spending Analysis Dashboard - Power BI](YOUR_GITHUB_LINK)
+- 🎵 [MoodTune - Facial Emotion-Based Music Recommender](https://github.com/strhymh179/MoodTune)
+- 💻 [Sistem S2P - Ticket Management and Asset Web Application](https://github.com/strhymh179/Sistem-Pengurusan-Perkhidmatan-S2P-)
+- 🐾 [Wildlife Conservation Management System](https://github.com/strhymh179/Wildlife-Conservation-System)
+- 📊 [Student Spending Analysis Dashboard - Power BI](https://github.com/strhymh179/Student-Spending-Analysis-Dashboard)
 
 ## 🛠️ Technologies
 
