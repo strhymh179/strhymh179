@@ -9,7 +9,7 @@
 ## 📂 Recent Projects
 
 - 🎵 [MoodTune - Facial Emotion-Based Music Recommender](https://github.com/strhymh179/MoodTune)
-- 💻 [Sistem S2P - Ticket Management and Asset Web Application](https://github.com/strhymh179/Sistem-Pengurusan-Perkhidmatan-S2P-)
+- 💻 [Sistem Pengurusan Perkhidmatan (S2P)](https://github.com/strhymh179/Sistem-Pengurusan-Perkhidmatan-S2P-)
 - 🐾 [Wildlife Conservation Management System](https://github.com/strhymh179/Wildlife-Conservation-System)
 - 📊 [Student Spending Analysis Dashboard - Power BI](https://github.com/strhymh179/Student-Spending-Analysis-Dashboard)
 
