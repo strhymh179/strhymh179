@@ -14,6 +14,7 @@
 - 💻 [Sistem Pengurusan Perkhidmatan (S2P)](https://github.com/strhymh179/Sistem-Pengurusan-Perkhidmatan-S2P-)
 - 🐾 [Wildlife Conservation Management System](https://github.com/strhymh179/Wildlife-Conservation-System)
 - 📊 [Student Spending Analysis Dashboard - Power BI](https://github.com/strhymh179/Student-Spending-Analysis-Dashboard)
+- 🎫 [Ticket Triage System - Azure](https://github.com/pelajardekan/Ticket-Triage)
 
 ---
 
