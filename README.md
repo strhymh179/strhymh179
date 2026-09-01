@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Siti Rahimah 👋
 
-<!--
-**strhymh179/strhymh179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science graduate from Universiti Teknologi MARA (UiTM)
 
-Here are some ideas to get you started:
+🎓 Bachelor of Computer Science (Hons.) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested in Software Development, Data Analytics & AI
+
+🛠️ Skills: PHP, Laravel, React.js, Python, MySQL, Power BI
+
+🌱 Currently looking for opportunities to grow as a Software / Data professional
+
+## 📂 Featured Projects
+
+- 🎵 [MoodTune - Facial Emotion-Based Music Recommender]
+- 💻 [Sistem S2P - Ticket Management and Asset Web Application](YOUR_GITHUB_LINK)
+- 🐾 [Wildlife Conservation Management System](YOUR_GITHUB_LINK)
+- 📊 [Student Spending Analysis Dashboard - Power BI](YOUR_GITHUB_LINK)
+
+## 🛠️ Technologies
+
+**Languages:**  
+PHP • Python • Java • JavaScript • SQL
+
+**Frameworks & Libraries:**  
+Laravel • React.js • Flask • TensorFlow • OpenCV
+
+**Tools:**  
+Git • GitHub • Power BI • MySQL • WEKA
