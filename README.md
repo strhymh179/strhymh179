@@ -6,7 +6,7 @@
 
 🗺️ Spoken Languages: English, Malay
 
-## 📂 Featured Projects
+## 📂 Recent Projects
 
 - 🎵 [MoodTune - Facial Emotion-Based Music Recommender](https://github.com/strhymh179/MoodTune)
 - 💻 [Sistem S2P - Ticket Management and Asset Web Application](https://github.com/strhymh179/Sistem-Pengurusan-Perkhidmatan-S2P-)
