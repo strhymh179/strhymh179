@@ -8,6 +8,11 @@
 
 ---
 
+## 📽️ Ongoing Project
+- 🛍️ Retail Sales Analysis Dashboard - Power BI
+
+---
+
 ## 📂 Recent Projects
 
 - 🎵 [MoodTune - Facial Emotion-Based Music Recommender](https://github.com/strhymh179/MoodTune)
