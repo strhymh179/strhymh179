@@ -6,13 +6,6 @@
 
 🗺️ Spoken Languages: English, Malay
 
----
-
-## 📽️ Ongoing Project
-- 🛍️ [Retail Sales & Customer Insights Dashboard - Power BI](https://github.com/strhymh179/Retail-Sales-Customer-Insights.git)
-
----
-
 ## 📂 Recent Projects
 
 - 🎵 [MoodTune - Facial Emotion-Based Music Recommender](https://github.com/strhymh179/MoodTune)
@@ -20,15 +13,12 @@
 - 🐾 [Wildlife Conservation Management System](https://github.com/strhymh179/Wildlife-Conservation-System)
 - 📊 [Student Spending Analysis Dashboard - Power BI](https://github.com/strhymh179/Student-Spending-Analysis-Dashboard)
 - 🎫 [Ticket Triage System - Azure](https://github.com/pelajardekan/Ticket-Triage)
-
----
+- 🛍️ [Retail Sales & Customer Insights Dashboard - Power BI](https://github.com/strhymh179/Retail-Sales-Customer-Insights.git)
 
 ## 📜 Certificates
 
 - 🏆 Microsoft Full Stack Developer
 - 🏆 IBM SkillsBuild – Artificial Intelligence Fundamentals
-
----
 
 ## 🛠️ Technical Skills
 
