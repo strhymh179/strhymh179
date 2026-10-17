@@ -9,7 +9,7 @@
 ---
 
 ## 📽️ Ongoing Project
-- 🛍️ Retail Sales Analysis Dashboard - Power BI
+- 🛍️ [Retail Sales & Customer Insights Dashboard - Power BI](https://github.com/strhymh179/Retail-Sales-Customer-Insights.git)
 
 ---
 
